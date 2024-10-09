@@ -1,0 +1,2 @@
+# pacial_programacion-gestion_clinica
+pacial_programacion:gestion_clinica
